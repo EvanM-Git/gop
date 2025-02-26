@@ -11,3 +11,16 @@ Please give me the length of the password you want:
 You want a password of length: 8
 Your password is: ########
 ```
+# How to execute
+
+### Linux
+```
+./gop-linux-executable
+```
+
+### Windows
+```
+start gop-windows-64bits.exe
+```
+#### or
+Find the file and run it by double clicking it in the file explorer
